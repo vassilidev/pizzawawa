@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b6581d9-48e7-478e-b806-9531903e03e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1hVpdMe2vmv6Fy8GNDSCHUXpjyc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css/fonts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\pizzawawa\public\css\fonts" />
+      <recent name="C:\laragon\www\pizzawawa\public\js" />
+      <recent name="C:\laragon\www\pizzawawa\public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\vassili\public\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b6581d9-48e7-478e-b806-9531903e03e7" name="Default Changelist" comment="" />
+      <created>1600106201129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600106201129</updated>
+      <workItem from="1600106202190" duration="1764000" />
+      <workItem from="1600151991434" duration="21233000" />
+      <workItem from="1600175914170" duration="1161000" />
+      <workItem from="1600177953645" duration="616000" />
+      <workItem from="1600181009157" duration="786000" />
+      <workItem from="1600184076300" duration="570000" />
+      <workItem from="1600334409901" duration="1672000" />
+      <workItem from="1600344147289" duration="2560000" />
+      <workItem from="1600369770024" duration="653000" />
+      <workItem from="1600410781293" duration="2355000" />
+      <workItem from="1600413505595" duration="4706000" />
+      <workItem from="1600420553923" duration="608000" />
+      <workItem from="1600498160800" duration="255000" />
+      <workItem from="1601103987854" duration="638000" />
+      <workItem from="1601124146567" duration="1125000" />
+      <workItem from="1601126134462" duration="1701000" />
+      <workItem from="1601197166438" duration="3350000" />
+      <workItem from="1602503885179" duration="8616000" />
+      <workItem from="1602512858512" duration="32000" />
+      <workItem from="1602576610337" duration="13000" />
+      <workItem from="1602587645309" duration="1530000" />
+      <workItem from="1602748705290" duration="32000" />
+      <workItem from="1603609592865" duration="2479000" />
+      <workItem from="1603612605418" duration="18131000" />
+      <workItem from="1647361338906" duration="217000" />
+      <workItem from="1647361678745" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
